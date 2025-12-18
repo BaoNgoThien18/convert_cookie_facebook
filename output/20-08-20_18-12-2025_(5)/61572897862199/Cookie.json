@@ -1,0 +1,101 @@
+[
+  {
+    "domain": ".facebook.com",
+    "expirationDate": 1797599300,
+    "httpOnly": true,
+    "name": "datr",
+    "path": "/",
+    "secure": true,
+    "value": "CH1VaPLAOxOwp0xFP8VmnKaJ"
+  },
+  {
+    "domain": ".facebook.com",
+    "expirationDate": 1797599300,
+    "httpOnly": true,
+    "name": "sb",
+    "path": "/",
+    "secure": true,
+    "value": "CH1VaHpYbRkb5VqoWFZpHP5-"
+  },
+  {
+    "domain": ".facebook.com",
+    "expirationDate": 1797599300,
+    "httpOnly": true,
+    "name": "dpr",
+    "path": "/",
+    "secure": true,
+    "value": "2"
+  },
+  {
+    "domain": ".facebook.com",
+    "expirationDate": 1797599300,
+    "httpOnly": true,
+    "name": "ps_l",
+    "path": "/",
+    "secure": true,
+    "value": "1"
+  },
+  {
+    "domain": ".facebook.com",
+    "expirationDate": 1797599300,
+    "httpOnly": true,
+    "name": "ps_n",
+    "path": "/",
+    "secure": true,
+    "value": "1"
+  },
+  {
+    "domain": ".facebook.com",
+    "expirationDate": 1797599300,
+    "httpOnly": true,
+    "name": "c_user",
+    "path": "/",
+    "secure": true,
+    "value": "61572897862199"
+  },
+  {
+    "domain": ".facebook.com",
+    "expirationDate": 1797599300,
+    "httpOnly": true,
+    "name": "cppo",
+    "path": "/",
+    "secure": true,
+    "value": "1"
+  },
+  {
+    "domain": ".facebook.com",
+    "expirationDate": 1797599300,
+    "httpOnly": true,
+    "name": "presence",
+    "path": "/",
+    "secure": true,
+    "value": "EDvF3EtimeF1750433518EuserFA261572897862199A2EstateFDutF0CEchF_7bCC"
+  },
+  {
+    "domain": ".facebook.com",
+    "expirationDate": 1797599300,
+    "httpOnly": true,
+    "name": "xs",
+    "path": "/",
+    "secure": true,
+    "value": "23%3ArONtaRLAZdul3w%3A2%3A1750433491%3A-1%3A-1%3A%3AAcV7Xm8kwpzkeKSiWW82FUWVAO_clCp-3gEPykuyKA"
+  },
+  {
+    "domain": ".facebook.com",
+    "expirationDate": 1797599300,
+    "httpOnly": true,
+    "name": "fr",
+    "path": "/",
+    "secure": true,
+    "value": "1QzsNcwi2Y6UV6Dvo.AWd5fBlMCLgF7vZFXIzRCVVk1AZPlUDD6K17HZMknUEK5K_GLqM.BoVX71..AAA.0.0.BoVYg4.AWcTP07_SnYNTV1EGyyYV0NiKIU"
+  },
+  {
+    "domain": ".facebook.com",
+    "expirationDate": 1797599300,
+    "httpOnly": true,
+    "name": "alsfid",
+    "path": "/",
+    "secure": true,
+    "value": "{\"id\":\"f99329fe2\",\"timestamp\":1750435904227.1}"
+  }
+]
