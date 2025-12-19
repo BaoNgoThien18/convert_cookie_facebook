@@ -1,6 +1,7 @@
 ConvertCookie Tool - Desktop Version FINAL
 
 🚀 TÍNH NĂNG MỚI:
+- Export 3 định dạng cookie: Header String, Netscape, JSON
 - Tự động copy thư mục input/add/ vào mỗi thư mục c_user
 - Tạo file Password.txt cho mỗi account
 - Cấu trúc output có tổ chức theo ID
@@ -43,13 +44,17 @@ datr=XnxVa...; sb=XnxVa...; c_user=100041749641794; xs=13%3A...|Dominic1978
 📦 KẾT QUẢ OUTPUT:
 output/HH-MM-SS_DD-MM-YYYY_(số_cookie)/
 ├── 100019763392942/
-│   ├── Cookie_Headerstring.txt    # Cookie Netscape format
+│   ├── Cookie_Headerstring.txt    # Cookie dạng header string (name=value; ...)
+│   ├── Cookie_NetScape.txt        # Cookie dạng Netscape format
+│   ├── Cookie_Json.txt            # Cookie dạng JSON array
 │   ├── Password.txt               # Password của account
 │   ├── example_tool.txt           # Copy từ input/add/
 │   └── scripts/                   # Copy từ input/add/
 │       └── run.bat
 └── 100041749641794/
     ├── Cookie_Headerstring.txt
+    ├── Cookie_NetScape.txt
+    ├── Cookie_Json.txt
     ├── Password.txt
     ├── example_tool.txt
     └── scripts/
